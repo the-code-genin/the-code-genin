@@ -1,4 +1,5 @@
-### Hello there! I'm Mohammed Adekunle, a web and mobile app developer.
+### Hello there! I'm Mohammed Adekunle, a full-stack software developer.
+I specialize in building web apps and micro services. You can take a look at my website for more info: [https://mohammedadekunle.com.ng](https://mohammedadekunle.com.ng)
 
 <!--
 **Iyiola-am/Iyiola-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
