@@ -1,5 +1,8 @@
 ### Hello there! I'm Mohammed Adekunle, a full-stack software developer.
-I specialize in building web apps and micro services. You can take a look at my website for more info: [https://mohammedadekunle.com.ng](https://mohammedadekunle.com.ng)
+
+I specialize in building web apps and services for individuals and corporate bodies using Modern PHP, NodeJS and VueJS. You can take a look at my website for more info: [https://mohammedadekunle.com.ng](https://mohammedadekunle.com.ng).
+
+You can also follow me on twitter [@Iyiola_am_](https://twitter.com/iyiola_am_)! I post informative stuff there from time to time... and why not?😄
 
 <!--
 **Iyiola-am/Iyiola-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
