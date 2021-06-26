@@ -1,4 +1,4 @@
-### Hello there! I'm Mohammed Adekunle, a full-stack software developer.
+### Hello there! I'm Mohammed Adekunle.
 
 I'm a full-stack software developer with specialization in building and deploying backend services. I build, deploy and manage software solutions for individuals and corporate bodies to leverage the power of modern technology to optimize their business operations and scale in the digital space.
 
