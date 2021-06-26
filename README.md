@@ -1,6 +1,5 @@
 ### Hello there! I'm Mohammed Adekunle, a full-stack software developer.
 
-I build software solutions for individuals and corporate bodies to leverage the power of modern technology to optimize their business operations.
-You can take a look at my website for more info: [https://mohammedadekunle.com.ng](https://mohammedadekunle.com.ng).
+I'm a full-stack software developer with specialization in building and deploying backend services. I build, deploy and manage software solutions for individuals and corporate bodies to leverage the power of modern technology to optimize their business operations and scale in the digital space.
 
-You can also follow me on twitter [@the_code_genin](https://twitter.com/the_code_genin)! I post informative stuff there from time to time... and why not?😄
+You can follow me on twitter [@the_code_genin](https://twitter.com/the_code_genin)! I post informative stuff there from time to time... and why not?😄
