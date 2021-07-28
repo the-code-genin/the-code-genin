@@ -1,8 +1,8 @@
 ### Hello there! I'm Mohammed Adekunle.
 
-I'm a full-stack software developer with specialization in building and deploying backend services.
+I'm a software developer with specialization in building and deploying server-side and system software.
 
-I build, deploy and manage software solutions for individuals and corporate bodies to leverage the power of modern technology to optimize their business operations and scale in the digital space using the PHP, Node(TS) and Golang programming languages.
+I build, deploy and manage software solutions for individuals and corporate bodies to leverage the power of modern technology to optimize their business operations and scale in the digital space.
 
 I also work on the web frontend to deliver beautiful and functional user interfaces using VueJS, NuxtJS and Webpack.
 
