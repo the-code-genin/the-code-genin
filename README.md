@@ -1,6 +1,6 @@
 ### Hello there! I'm Mohammed Adekunle.
 
-I am a software developer with over 5 years of professional experience with a focus on developing enterprise, high-performance, and distributed software systems. I am keenly interested in data science, and quantitative finance.
+I am a software developer with a focus on developing enterprise, high-performance, and distributed software systems. I am keenly interested in data science and its applications in quantitative finance and machine learning.
 
 I work primarily with the Go and JS/TS (server-side and web) programming languages. I also have experience with PHP, C, and Python.
 
