@@ -4,6 +4,6 @@ I’m a software engineer with a core specialization in building server-side sof
 
 My work has supported systems used by millions of users, improved operational efficiency for internal teams, and enabled engineering teams to ship reliable features faster at scale.
 
-I primarily work with Go and JavaScript/TypeScript, with working experience in Python, and I’m particularly interested in building systems that are reliable, observable, and easy to operate in production.
+I primarily work with Go and JavaScript/TypeScript, with working experience in Python, and I’m particularly interested in building systems that are reliable, observable, and easy to operate at scale.
 
 You can follow me on Twitter [@the_code_genin](https://twitter.com/the_code_genin)! I post informative stuff there from time to time... and why not?😄
