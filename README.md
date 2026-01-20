@@ -6,6 +6,6 @@ With over 6 years of industry experience, I have worked across multiple FinTech 
 
 My work has supported systems used by millions of users, improved operational efficiency for internal teams, and enabled engineering teams to ship reliable features faster at scale.
 
-I primarily work with Go and JavaScript/TypeScript, with working experience in Python, and I am particularly interested in building systems that are reliable, observable, and easy to operate in production.
+I work primarily with Go and JavaScript/TypeScript, with working experience in Python. I am interested in building systems that are reliable and easy to operate at scale.
 
-You can follow me on Twitter [@the_code_genin](https://twitter.com/the_code_genin)! I post informative stuff there from time to time... and why not?😄
+You can reach me on X [@the_code_genin](https://twitter.com/the_code_genin) or via email.
