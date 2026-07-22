@@ -1,6 +1,6 @@
 ### Hello there! I'm Mohammed Adekunle.
 
-I am a software engineer with a core specialization in building server-side software and distributed systems, complemented by hands-on experience in DevOps and web UI development.
+I am a software engineer with a core specialization in building server-side software and distributed systems, complemented by hands-on experience in DevOps and web development.
 
 With over 6 years of industry experience, I have worked across multiple FinTech domains, including cross-border remittances, decentralized finance (blockchain-based systems), and embedded financial products, as well as on ERP, CRM, and SaaS platforms serving both businesses and individuals.
 
